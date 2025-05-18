@@ -127,15 +127,15 @@ section .btntwo {
     content: "Sigulda";
   }
   35% {
-    content: "";
+    content: "JURMALA";
   }
   60% {
-    content: "kerala";
+    content: "PINKI";
   }
   80% {
-    content: "delhi";
+    content: "LIEPAJA";
   }
   100% {
-    content: "Mumbai";
+    content: "VENTSPILS";
   }
 }
